@@ -29,6 +29,8 @@ O site de portfólio pode ser personalizado conforme as necessidades individuais
 - Adicionar detalhes de projetos e habilidades específicas.
 - Personalizar o estilo CSS para se adequar ao design desejado.
 
+Caso queira observar como está o desenvolvimento do WebSite visite: https://kaynnanduraes.me
+
 ## Próximos Passos
 
 Este site de portfólio pode ser expandido e aprimorado ainda mais com o seguinte:
